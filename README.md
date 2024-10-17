@@ -8,9 +8,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://www.thomasremblier.fr/_next/image?url=%2Flogo-creux.png&w=96&q=75"  />
-
+<a href="https://thomasremblier.fr" target="_blank">
+  <img align="right" height="150" src="https://www.thomasremblier.fr/_next/image?url=%2Flogo-creux.png&w=96&q=75"  />
+</a>
 ###
 
 <div align="left">
@@ -61,6 +61,9 @@
   </a>
   <a href="https://linktr.ee/thomas.psd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=44E660&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://thomasremblier.fr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=000000&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
 
