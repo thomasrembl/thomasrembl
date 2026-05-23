@@ -60,7 +60,7 @@
   <a href="https://www.twitch.tv/fcmthomas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://linktr.ee/thomas.psd" target="_blank">
+  <a href="https://linktr.ee/thomas_rembl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=44E660&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
   <a href="https://thomasremblier.fr" target="_blank">
